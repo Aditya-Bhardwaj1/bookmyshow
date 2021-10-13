@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import axios from "axios";
 
 // HOC
@@ -26,6 +27,14 @@ function App() {
       <DefaultHOC path="/plays" exact component={Plays} />
     </>
   );
+=======
+//jsx
+function App() {
+  return ( <div>
+   <h1 > aditya</h1>
+    </div>
+    );
+>>>>>>> 51101075818424cdfd4ce13d873e172708763e72
 }
 
 export default App;

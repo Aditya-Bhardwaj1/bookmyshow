@@ -1,5 +1,6 @@
 @tailwind base;
 @tailwind components;
+<<<<<<< HEAD
 @tailwind utilities;
 
 .slick-prev {
@@ -11,3 +12,6 @@
     right: 3% !important;
     z-index: 1;
   }
+=======
+@tailwind utilities;
+>>>>>>> 51101075818424cdfd4ce13d873e172708763e72
